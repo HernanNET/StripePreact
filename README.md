@@ -1,2 +1,3 @@
-# StripePreact
-Astro Project, with Stripe Preact
+# Stripe Preact
+  Astro Project, with Stripe Preact
+    
